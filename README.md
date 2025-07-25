@@ -7,6 +7,13 @@ Inspired by the classic Asteroids, this version allows you to control a spaceshi
 
 You can expand game mechanics by implementing new simulation or rendering agents and registering them into their respective pipelines.
 
+## Controls
+
+W - Move Up
+S - Move Down
+A - Move Left
+D - Move Right
+
 ## 🛠️ Tech Stack
 - Unity 2022.3.42f1
 - C#
