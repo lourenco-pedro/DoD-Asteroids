@@ -9,10 +9,10 @@ You can expand game mechanics by implementing new simulation or rendering agents
 
 ## Controls
 
-W - Move Up
-S - Move Down
-A - Move Left
-D - Move Right
+- W - Move Up
+- S - Move Down
+- A - Move Left
+- D - Move Right
 
 ## 🛠️ Tech Stack
 - Unity 2022.3.42f1
