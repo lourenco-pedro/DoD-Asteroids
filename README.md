@@ -8,7 +8,7 @@ Inspired by the classic Asteroids, this version allows you to control a spaceshi
 You can expand game mechanics by implementing new simulation or rendering agents and registering them into their respective pipelines.
 
 ## 🛠️ Tech Stack
-- Unity
+- Unity 2022.3.42f1
 - C#
 - Data-Oriented Design (not using Unity ECS)
 
