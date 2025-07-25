@@ -1,0 +1,15 @@
+{
+    "playerAcceleration": 5.5,
+    "playerDrag": 2.5,
+    "playerMaxVelocity": 10,
+    "playerDetectRange": 5,
+    "bulletSpeed": 10,
+    "life": 5,
+    "fireRateInSeconds": 1,
+    "asteroidSpawnRateInSeconds": 2,
+    "asteroidsCountProgression": [2, 8, 12, 18, 26, 36],
+    "asteroidsSpawnRateMultiplerTier": [1, 0.8, 0.7, 0.5, 0.4, 0.2],
+    "maxActiveAsteroidsTier": [2, 4, 8], 
+    "asteroidSizeRange": [0.5, 2.5],
+    "asteroidsSpeedRange": [1, 3]
+}
