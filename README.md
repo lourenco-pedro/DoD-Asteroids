@@ -46,7 +46,7 @@ All visual entities rendered in the Unity scene must have a corresponding instan
 
 These objects serve as the bridge between simulation data and Unity’s GameObjects, encapsulating all the setup needed for rendering.
 
-> ⚠️ It is the developer’s responsibility to manually instantiate these objects when implementing a custom IRenderAgent. Please, refere to [SPlayer.cs](./Assets/Scripts/App/Services/SPlayer.cs) and [WOPlayer.cs](./Assets/Scripts/App/Render/WorldObjects/WOPlayer.cs) for more contexts.
+> ⚠️ It is the developer’s responsibility to manually instantiate these objects when implementing a custom IRenderAgent. Please, refere to [RPlayer.cs](./Assets/Scripts/App/Render/RPlayer.cs) and [WOPlayer.cs](./Assets/Scripts/App/Render/WorldObjects/WOPlayer.cs) for more contexts.
 
 ### Implemented simulation and render agents include:
 
